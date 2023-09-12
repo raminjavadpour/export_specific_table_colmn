@@ -1,4 +1,5 @@
 <?php
+// For use export user number digits plugin
 // Database connection settings
 $servername = "localhost"; // Replace with your database server name
 $username = "db user"; // Replace with your database username
